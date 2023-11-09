@@ -1,4 +1,4 @@
-a =(int(input("Enter the first number:")))
-b =(int(input("Enter the first number:")))
+a =(int(input("Enter the 1st number:")))
+b =(int(input("Enter the 2nd number:")))
 c = a+b
 print (c)
